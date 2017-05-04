@@ -1,7 +1,7 @@
 # itp 325
 Nandhini Namasivayam
 
-##Final Project
+## Final Project
 I was unable to do Youtube videos for this project because I
 do not have a ducky. After many emails with Chi, I re-read
 the project description and noticed the part about working
